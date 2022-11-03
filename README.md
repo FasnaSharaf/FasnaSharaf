@@ -9,3 +9,8 @@
 - ### Find me elsewhere🌎
      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/fasna-sharaf-5ab269221/)<br>
 **[My personal website](https://fasnasharaf.github.io/)**
+
+- ### Badges📛
+[![@fasnasharaf24's Holopin board](https://holopin.me/fasnasharaf24)](https://holopin.io/@fasnasharaf24)
+
+
