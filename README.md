@@ -1,7 +1,6 @@
 - ### Hi, I’m Fasna Sharaf 👋
-     I am an all round web developer. I am a tech enthusiastic with good knowledge of front-end techniques.I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team because I was able to learn faster and much more.<br><br>
-     I am a beginner in 𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤.The main project which I made is my 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 and a 𝐭𝐚𝐬𝐤 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐩𝐩 (which is the one I am currently working right now, which will be a CRUD app).<br><br>
-     Apart from web development, I love 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 and 𝐯𝐨𝐥𝐮𝐧𝐭𝐞𝐞𝐫𝐢𝐧𝐠 different technical events.😇<br><br>
+     I am a tech enthusiast with a passion for both software development and embedded systems. I enjoy exploring the latest technologies and building efficient, high-quality solutions. I have experience in web development and am a MERN stack developer. I love diving into the details, optimizing web apps, and creating structured, maintainable code.  I enjoy working in teams because it helps me learn faster and share ideas effectively. I'm also excited about embedded systems, combining hardware and software to solve real-world problems.<br><br>
+     Apart from this, I love 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 and 𝐯𝐨𝐥𝐮𝐧𝐭𝐞𝐞𝐫𝐢𝐧𝐠 different technical events.😇<br><br>
      <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
      <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
      <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
